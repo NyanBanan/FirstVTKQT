@@ -1,8 +1,7 @@
-#include <QtCore>
-#include <QMainWindow>
-#include <QMdiArea>
-#include <QMenuBar>
 #include <QApplication>
+#include <QtCore>
+
+#include "MyGodWidget.hpp"
 
 int main(int argc, char* argv[]) {
     QApplication app(argc, argv);
